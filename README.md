@@ -3,6 +3,16 @@
 A feature-rich Weather App built with Flutter, providing real-time data from the OpenWeatherMap API. It includes a full user authentication system, a dynamic city search with suggestions, and a clean, modern UI. View temperature and conditions in a sleek, card-based design with beautiful gradient backgrounds.
 
 ---
+## 📷 App Screenshots
+
+### 🔹 Splash Screen
+![Splash Screen](assets/images/1.png)
+
+### 🔹 Signup / Login
+![Authentication Screens](assets/images/2.png)
+
+### 🔹 Weather Display
+![Weather Home](assets/images/3.png)
 
 ## 🚀 Features
 
