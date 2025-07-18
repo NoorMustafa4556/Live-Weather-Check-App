@@ -8,11 +8,17 @@ A feature-rich Weather App built with Flutter, providing real-time data from the
 ### 🔹 Splash Screen
 ![Splash Screen](assets/images/1.png)
 
-### 🔹 Signup / Login
-![Authentication Screens](assets/images/2.png)
+### 🔹 Signup
+![Signup Screen](assets/images/2.png)
 
-### 🔹 Weather Display
-![Weather Home](assets/images/3.png)
+### 🔹  Login
+![Login Screen](assets/images/3.png)
+
+### 🔹  Home Screen
+![Home Screen](assets/images/4.png)
+
+### 🔹  Weahter Checking
+![Weather Checking Screen](assets/images/5.png)
 
 ## 🚀 Features
 
