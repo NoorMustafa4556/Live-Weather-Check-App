@@ -3,15 +3,7 @@
 A feature-rich Weather App built with Flutter, providing real-time data from the OpenWeatherMap API. It includes a full user authentication system, a dynamic city search with suggestions, and a clean, modern UI. View temperature and conditions in a sleek, card-based design with beautiful gradient backgrounds.
 
 ---
-<h2 align="center">📷 App Screenshots</h2>
 
-<p align="center">
-  <img src="https://github.com/NoorMustafa4556/Live-Weather-Check-App/blob/main/assets/images/1.png" alt="Splash Screen" width="30%" style="margin: 0 20px;"/>
-  <img src="https://github.com/NoorMustafa4556/Live-Weather-Check-App/blob/main/assets/images/2.png" alt="Signup Screen" width="30%" style="margin: 0 20px;"/>
-  <img src="https://github.com/NoorMustafa4556/Live-Weather-Check-App/blob/main/assets/images/3.png" alt="Login Screen" width="30%" style="margin: 0 20px;"/>
-  <img src="https://github.com/NoorMustafa4556/Live-Weather-Check-App/blob/main/assets/images/4.png" alt="Home Screen" width="30%" style="margin: 0 20px;"/>
-  <img src="https://github.com/NoorMustafa4556/Live-Weather-Check-App/blob/main/assets/images/5.png" alt="Weather Checking Screen" width="30%" style="margin: 0 20px;"/>
-</p>
 
 
 ## 🚀 Features
